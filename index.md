@@ -9,7 +9,7 @@ This course provides an introduction to hardware security. A more detailed descr
 
 ## Quick Links
 
-### [Syllabus](syllabus.md)
+### [Syllabus](syllabus)
 
 ### [Lecture Slides](https://github.com/engr599/lecture_slides) 
 
