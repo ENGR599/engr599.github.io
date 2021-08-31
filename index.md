@@ -19,6 +19,8 @@ This course provides an introduction to hardware security. A more detailed descr
 
 ## Projects
 
+### [P1 - Hardware Trojan](https://docs.google.com/document/d/1DIlBGESaB63MyGkzOPEOPWHJxd7XrSA-k8qcYPTFz2o)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.
