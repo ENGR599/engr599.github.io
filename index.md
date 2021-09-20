@@ -21,6 +21,9 @@ This course provides an introduction to hardware security. A more detailed descr
 
 ### [P1 - Hardware Trojan](https://docs.google.com/document/d/1DIlBGESaB63MyGkzOPEOPWHJxd7XrSA-k8qcYPTFz2o)
 
+### [P2 - Obfuscation](https://docs.google.com/document/d/1hOup4QjZGDl7oP83zsBqN0M4K65bsZ2q-xRPaSoOr5o)
+
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.
