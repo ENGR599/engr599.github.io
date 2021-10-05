@@ -23,6 +23,7 @@ This course provides an introduction to hardware security. A more detailed descr
 
 ### [P2 - Obfuscation](https://docs.google.com/document/d/1hOup4QjZGDl7oP83zsBqN0M4K65bsZ2q-xRPaSoOr5o)
 
+### [ P3 - Side-Channel](https://docs.google.com/document/d/1NiHY2dEvv5ipX64C8NP11Wd0YK_7qrlr-meexUmGDtY)
 
 ## Course Schedule
 
