@@ -52,9 +52,9 @@ This is the tentative schedule for this semester.
 | 10/13 | Wednesday | 08    | Fault-Injection Attacks   |
 | 10/18 | Monday    | 09    | Hardware Trojans          |
 | 10/20 | Wednesday | 09    | Hardware Trojans          |
-| 10/25 | Monday    | --    | Review                    |
-| 10/27 | Wednesday | --    | Exam                      |
-| 11/01 | Monday    | 10    | Counterfeit Detection     |
+| 10/25 | Monday    | --    | NO CLASS                  |
+| 10/27 | Wednesday | --    | Review                    |
+| 11/01 | Monday    | 10    | Exam                      |
 | 11/03 | Wednesday | 11    | Side-Channel Analysis     |
 | 11/08 | Monday    | 11    | Side-Channel Analysis     |
 | 11/10 | Wednesday | 12    | FPGA Security             |
