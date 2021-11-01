@@ -1,6 +1,6 @@
 # ENGR 599 "Hardware Security" Syllabus
 
-Revision: F2021.0
+Revision: F2021.1
 
 ## Description
 
@@ -105,7 +105,7 @@ grade.*
 
 | Exams    | Projects  | Participation |
 | -------- |  ---      | --            |
-|    25%   |  40%      | 10%           |
+|    40%   |  50%      | 10%           |
 
 
 ## Academic Integrity
