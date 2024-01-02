@@ -1,6 +1,6 @@
-# ENGR 599 "Hardware Security" Syllabus
+# ENGR 399/599 "Hardware Security" Syllabus
 
-Revision: F2021.1
+Revision: F2024.1
 
 ## Description
 
@@ -26,20 +26,15 @@ Andrew Lukefahr
 lukefahr@iu.edu  
 2032 Luddy Hall  
 
-Office Hours:  Monday/Wednesday 2.30P-3.00P (after class)
+Office Hours:  Tuesday/Thursday 4:15p-5:00p (after class)
 
 <!-- ## TA -->
 
 ## Schedule
 
 **Lecture:**
-Monday/Wednesday 01:10P-02:25P 
-IF 4111 (Luddy Hall)   
-
-<!--Lab:   
-1:45PM-2:35PM, 3:00PM-3:50PM, or 4:15PM-5:05PM Friday\
-IF 4111 (Luddy Hall)   
--->
+Tuesday/Thursday 03:00P-04:15P 
+IF 0119 (Luddy Hall)   
 
 ## Prerequisites
 
