@@ -31,40 +31,40 @@ This course provides an introduction to hardware security. A more detailed descr
 
 ## Course Schedule
 
-This is the tentative schedule for this semester.
+This is a very tentative schedule for this semester.
 
-
-| Date  |   Day     | Number| Lecture Topic             |
-| --    |  -----    | --    |  -----                    |
-| 08/23 | Monday    | 00    | Introduction              |
-| 08/25 | Wednesday | 01    | Trust                     |
-| 08/30 | Monday    | 02    | Hardware Cryptography     |
-| 09/01 | Wednesday | 02    | Hardware Cryptography     |
-| 09/06 | Monday    | --    | NO CLASS                  |
-| 09/08 | Wednesday | 03    | Circuit Basics            |
-| 09/13 | Monday    | 03    | Circuit Basics            |
-| 09/15 | Wednesday | 04    | PUFs                      |
-| 09/20 | Monday    | 04    | PUFs / TRNGs              |
-| 09/22 | Wednesday | 04    | TRNGs                     |
-| 09/27 | Monday    | 05    | Hardware Metering         |
-| 09/29 | Wednesday | 06    | Watermarking              |
-| 10/04 | Monday    | 06    | Watermarking              |
-| 10/06 | Wednesday | 07    | Physical Attacks          |
-| 10/11 | Monday    | 07    | Physical Attacks          |
-| 10/13 | Wednesday | 08    | Fault-Injection Attacks   |
-| 10/18 | Monday    | 09    | Hardware Trojans          |
-| 10/20 | Wednesday | 09    | Hardware Trojans          |
-| 10/25 | Monday    | --    | NO CLASS                  |
-| 10/27 | Wednesday | --    | Review                    |
-| 11/01 | Monday    | 10    | Exam                      |
-| 11/03 | Wednesday | 11    | Side-Channel Analysis     |
-| 11/08 | Monday    | 11    | Side-Channel Analysis     |
-| 11/10 | Wednesday | 12    | FPGA Security             |
-| 11/15 | Monday    | 12    | FPGA Security             |
-| 11/17 | Wednesday | 12    | FPGA Security             |
-| 11/22 | Monday    | --    | NO CLASS                  |
-| 11/24 | Wednesday | --    | NO CLASS                  |
-| 11/29 | Monday    | 13    | PCB Security              |
-| 12/01 | Wednesday | 13    | PCB Security              |
-| 12/06 | Monday    | --    | Overflow                  |
-| 12/08 | Wednesday | --    | Final                     |
+| Date  | Day      | Number | Lecture Topic           |
+|-------|----------|--------|-------------------------|
+| 01/09 | Tuesday  | 00     | Introduction            |
+| 01/11 | Thursday | 01     | Trust                   |
+| 01/16 | Tuesday  | 02     | Hardware Cryptography   |
+| 01/18 | Thursday | 02     | Hardware Cryptography   |
+| 01/23 | Tuesday  | 03     | Circuit Basics          |
+| 01/25 | Thursday | 03     | Circuit Basics          |
+| 01/30 | Tuesday  | 04     | PUFs                    |
+| 02/01 | Thursday | 04     | PUFs / TRNGs            |
+| 02/06 | Tuesday  | 04     | TRNGs                   |
+| 02/08 | Thursday | 05     | Hardware Metering       |
+| 02/13 | Tuesday  | 06     | Watermarking            |
+| 02/15 | Thursday | 06     | Watermarking            |
+| 02/20 | Tuesday  | 07     | Physical Attacks        |
+| 02/22 | Thursday | 07     | Physical Attacks        |
+| 02/27 | Tuesday  | 08     | Fault-Injection Attacks |
+| 02/29 | Thursday | 09     | Hardware Trojans        |
+| 03/05 | Tuesday  | 09     | Hardware Trojans        |
+| 03/07 | Thursday | --     | Overflow                |
+| 03/12 | Tuesday  | --     | No Class                |
+| 03/14 | Thursday | --     | No Class                |
+| 03/19 | Tuesday  | --     | Review                  |
+| 03/21 | Thursday | 10     | Exam                    |
+| 03/26 | Tuesday  | 11     | Side-Channel Analysis   |
+| 03/28 | Thursday | 11     | Side-Channel Analysis   |
+| 04/02 | Tuesday  | 12     | FPGA Security           |
+| 04/04 | Thursday | 12     | FPGA Security           |
+| 04/09 | Tuesday  | 12     | FPGA Security           |
+| 04/11 | Thursday | 13     | PCB Security            |
+| 04/16 | Tuesday  | 13     | PCB Security            |
+| 04/18 | Thursday | --     | Overflow                |
+| 04/23 | Tuesday  | --     | Review                  |
+| 04/25 | Thursday | --     | Review                  |
+| 04/30 | Tuesday  | --     | Final                   |
