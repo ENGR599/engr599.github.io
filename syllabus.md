@@ -28,7 +28,12 @@ lukefahr@iu.edu
 
 Office Hours:  Tuesday/Thursday 4:15p-5:00p (after class)
 
-<!-- ## TA -->
+## TA
+
+Barrett Tieman  
+batieman@iu.edu  
+
+Office Hours:  Monday/Wednesday 4:30p-6:30p Luddy Hall 3111
 
 ## Schedule
 
