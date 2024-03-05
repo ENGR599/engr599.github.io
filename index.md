@@ -25,6 +25,8 @@ This course provides an introduction to hardware security. A more detailed descr
 
 ### [P3 - PUF](https://docs.google.com/document/d/11Hz941qJU_cjf4HVN_omOeyHqKtSY2fgvVeBXWpYglk)
 
+### [P4 - Side-Channel](https://docs.google.com/document/d/1NiHY2dEvv5ipX64C8NP11Wd0YK_7qrlr-meexUmGDtY)
+
 <!-- 
 ### [ P3 - Side-Channel](https://docs.google.com/document/d/1NiHY2dEvv5ipX64C8NP11Wd0YK_7qrlr-meexUmGDtY)
 
