@@ -29,9 +29,8 @@ This course provides an introduction to hardware security. A more detailed descr
 
 <!-- 
 ### [ P3 - Side-Channel](https://docs.google.com/document/d/1NiHY2dEvv5ipX64C8NP11Wd0YK_7qrlr-meexUmGDtY)
-
-### [ P4 - DPA](https://docs.google.com/document/d/1FmMxnFbuR4W1GlXnrMiMyAuAAwXC8OmnNkAt-PGx3nU)
 -->
+### [ P5 - DPA](https://docs.google.com/document/d/1GtOdPGU0sINWMGG1cTek1u6HmiOpH6PBgVper4Uqvuk)
 
 ## Course Schedule
 
