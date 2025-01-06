@@ -29,13 +29,15 @@ lukefahr@iu.edu
 
 Office Hours:  Tuesday/Thursday 4:15p-5:00p (after class)
 -->
-Grant Skipper
+**Grant Skipper**
+
 gskipper@iu.edu
 
 Office Hours: TBD
 
 ## TA
-Christopher Sozio
+**Christopher Sozio**
+
 cmsozio@iu.edu
 
 Office Hours: TBD
