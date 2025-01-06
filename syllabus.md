@@ -39,6 +39,7 @@ Christopher Sozio
 cmsozio@iu.edu
 
 Office Hours: TBD
+
 <!--
 Barrett Tieman  
 batieman@iu.edu  
