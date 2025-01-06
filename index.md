@@ -1,6 +1,6 @@
 # Welcome to ENGR 399/599 "Hardware Security" 
 
-Spring 2024
+Spring 2025
 
 ## Description 
 
@@ -19,6 +19,7 @@ This course provides an introduction to hardware security. A more detailed descr
 
 ## Projects
 
+<!--
 ### [P1 - Hardware Trojan](https://docs.google.com/document/d/1DIlBGESaB63MyGkzOPEOPWHJxd7XrSA-k8qcYPTFz2o)
 
 ### [P2 - Obfuscation](https://docs.google.com/document/d/1hOup4QjZGDl7oP83zsBqN0M4K65bsZ2q-xRPaSoOr5o)
@@ -27,47 +28,48 @@ This course provides an introduction to hardware security. A more detailed descr
 
 ### [P4 - Side-Channel](https://docs.google.com/document/d/1NiHY2dEvv5ipX64C8NP11Wd0YK_7qrlr-meexUmGDtY)
 
-<!-- 
 ### [ P3 - Side-Channel](https://docs.google.com/document/d/1NiHY2dEvv5ipX64C8NP11Wd0YK_7qrlr-meexUmGDtY)
--->
+
 ### [ P5 - DPA](https://docs.google.com/document/d/1GtOdPGU0sINWMGG1cTek1u6HmiOpH6PBgVper4Uqvuk)
+-->
 
 ## Course Schedule
 
 This is a very tentative schedule for this semester.
 
-| Date  | Day      | Number | Lecture Topic           |
-|-------|----------|--------|-------------------------|
-| 01/09 | Tuesday  | 00     | Introduction            |
-| 01/11 | Thursday | 01     | Trust                   |
-| 01/16 | Tuesday  | 02     | Hardware Cryptography   |
-| 01/18 | Thursday | 02     | Hardware Cryptography   |
-| 01/23 | Tuesday  | 03     | Circuit Basics          |
-| 01/25 | Thursday | 03     | Circuit Basics          |
-| 01/30 | Tuesday  | 04     | PUFs                    |
-| 02/01 | Thursday | 04     | PUFs / TRNGs            |
-| 02/06 | Tuesday  | 04     | TRNGs                   |
-| 02/08 | Thursday | 05     | Hardware Metering       |
-| 02/13 | Tuesday  | 06     | Watermarking            |
-| 02/15 | Thursday | 06     | Watermarking            |
-| 02/20 | Tuesday  | 07     | Physical Attacks        |
-| 02/22 | Thursday | 07     | Physical Attacks        |
-| 02/27 | Tuesday  | 08     | Fault-Injection Attacks |
-| 02/29 | Thursday | 09     | Hardware Trojans        |
-| 03/05 | Tuesday  | 09     | Hardware Trojans        |
-| 03/07 | Thursday | --     | Overflow                |
-| 03/12 | Tuesday  | --     | No Class                |
-| 03/14 | Thursday | --     | No Class                |
-| 03/19 | Tuesday  | --     | Review                  |
-| 03/21 | Thursday | 10     | Exam                    |
-| 03/26 | Tuesday  | 11     | Side-Channel Analysis   |
-| 03/28 | Thursday | 11     | Side-Channel Analysis   |
-| 04/02 | Tuesday  | 12     | FPGA Security           |
-| 04/04 | Thursday | 12     | FPGA Security           |
-| 04/09 | Tuesday  | 12     | FPGA Security           |
-| 04/11 | Thursday | 13     | PCB Security            |
-| 04/16 | Tuesday  | 13     | PCB Security            |
-| 04/18 | Thursday | --     | Overflow                |
-| 04/23 | Tuesday  | --     | Review                  |
-| 04/25 | Thursday | --     | Review                  |
-| 04/30 | Tuesday  | --     | Final                   |
+| Date  | Day       | Number | Lecture Topic           |
+|-------|-----------|--------|-------------------------|
+| 01/13 | Monday    | 00     | Introduction            |
+| 01/15 | Wednesday | 01     | Trust                   |
+| 01/20 | Monday    | --     | No Class                |
+| 01/22 | Wednesday | 02     | Hardware Cryptography   |
+| 01/27 | Monday    | 02     | Hardware Cryptography   |
+| 01/29 | Wednesday | 03     | Circuit Basics          |
+| 02/03 | Monday    | 03     | Circuit Basics          |
+| 02/05 | Wednesday | 04     | PUFs                    |
+| 02/10 | Monday    | 04     | PUFs / TRNGs            |
+| 02/12 | Wednesday | 04     | TRNGs                   |
+| 02/17 | Monday    | 05     | Hardware Metering       |
+| 02/19 | Wednesday | 06     | Watermarking            |
+| 02/24 | Monday    | 06     | Watermarking            |
+| 02/26 | Wednesday | 07     | Physical Attacks        |
+| 03/03 | Monday    | 07     | Physical Attacks        |
+| 03/05 | Wednesday | 08     | Fault-Injection Attacks |
+| 03/10 | Monday    | 09     | Hardware Trojans        |
+| 03/12 | Wednesday | 09     | Hardware Trojans        |
+| 03/17 | Monday    | --     | No Class                |
+| 03/19 | Wednesday | --     | No Class                |
+| 03/24 | Monday    | --     | Review                  |
+| 03/26 | Wednesday | 10     | Exam                    |
+| 03/31 | Monday    | 11     | Side-Channel Analysis   |
+| 04/02 | Wednesday | 11     | Side-Channel Analysis   |
+| 04/07 | Monday    | 12     | FPGA Security           |
+| 04/09 | Wednesday | 12     | FPGA Security           |
+| 04/14 | Monday    | 12     | FPGA Security           |
+| 04/16 | Wednesday | 13     | PCB Security            |
+| 04/21 | Monday    | 13     | PCB Security            |
+| 04/23 | Wednesday | --     | Overflow                |
+| 04/28 | Monday    | --     | Overflow                |
+| 04/30 | Wednesday | --     | Review                  |
+| 05/05 | Monday    | --     | Final                   |
+| 05/07 | Wednesday | --     | Final                   |

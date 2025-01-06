@@ -1,14 +1,14 @@
 # ENGR 399/599 "Hardware Security" Syllabus
 
-Revision: F2024.1
+Revision: F2025.1
 
 ## Description
 
-This course provides a board, comprehensive, and practical overview of hardware
+This course provides a broad, comprehensive, and practical overview of hardware
 security with the goal of helping students understand the role of how hardware
 and hardware/software interaction impact the overall system security.  This
-course gives an overview of known attack methodologies and countermeasure for a
-variety of computer hardware.  It will teach how to identify key hardware
+course gives an overview of known attack methodologies and countermeasures for a
+variety of computer hardware. It will teach how to identify key hardware
 security issues and develop effective countermeasures at each level of hardware
 abstraction.  
 
@@ -22,28 +22,39 @@ Having completed this course, you will have experience with the following:
 
 ## Instructor
 
+<!--
 Andrew Lukefahr  
 lukefahr@iu.edu  
 2032 Luddy Hall  
 
 Office Hours:  Tuesday/Thursday 4:15p-5:00p (after class)
+-->
+Grant Skipper
+gskipper@iu.edu
+
+Office Hours: TBD
 
 ## TA
+Christopher Sozio
+cmsozio@iu.edu
 
+Office Hours: TBD
+<!--
 Barrett Tieman  
 batieman@iu.edu  
 
 Office Hours:  Monday/Wednesday 4:30p-6:30p Luddy Hall 3111
+-->
 
 ## Schedule
 
 **Lecture:**
-Tuesday/Thursday 03:00P-04:15P 
+Monday/Wednesday 05:30P-06:45P 
 IF 0119 (Luddy Hall)   
 
 ## Prerequisites
 
-None.  A background in Digital Design is helpful.  
+None. A background in Digital Design is helpful.  
 
 ## Textbooks
 
