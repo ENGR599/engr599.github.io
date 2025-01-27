@@ -37,39 +37,22 @@ This course provides an introduction to hardware security. A more detailed descr
 
 This is a very tentative schedule for this semester.
 
-| Date  | Day       | Number | Lecture Topic           |
-|-------|-----------|--------|-------------------------|
-| 01/13 | Monday    | 00     | Introduction            |
-| 01/15 | Wednesday | 01     | Trust                   |
-| 01/20 | Monday    | --     | No Class                |
-| 01/22 | Wednesday | 02     | Hardware Cryptography   |
-| 01/27 | Monday    | 02     | Hardware Cryptography   |
-| 01/29 | Wednesday | 03     | Circuit Basics          |
-| 02/03 | Monday    | 03     | Circuit Basics          |
-| 02/05 | Wednesday | 04     | PUFs                    |
-| 02/10 | Monday    | 04     | PUFs / TRNGs            |
-| 02/12 | Wednesday | 04     | TRNGs                   |
-| 02/17 | Monday    | 05     | Hardware Metering       |
-| 02/19 | Wednesday | 06     | Watermarking            |
-| 02/24 | Monday    | 06     | Watermarking            |
-| 02/26 | Wednesday | 07     | Physical Attacks        |
-| 03/03 | Monday    | 07     | Physical Attacks        |
-| 03/05 | Wednesday | 08     | Fault-Injection Attacks |
-| 03/10 | Monday    | 09     | Hardware Trojans        |
-| 03/12 | Wednesday | 09     | Hardware Trojans        |
-| 03/17 | Monday    | --     | No Class                |
-| 03/19 | Wednesday | --     | No Class                |
-| 03/24 | Monday    | --     | Review                  |
-| 03/26 | Wednesday | 10     | Exam                    |
-| 03/31 | Monday    | 11     | Side-Channel Analysis   |
-| 04/02 | Wednesday | 11     | Side-Channel Analysis   |
-| 04/07 | Monday    | 12     | FPGA Security           |
-| 04/09 | Wednesday | 12     | FPGA Security           |
-| 04/14 | Monday    | 12     | FPGA Security           |
-| 04/16 | Wednesday | 13     | PCB Security            |
-| 04/21 | Monday    | 13     | PCB Security            |
-| 04/23 | Wednesday | --     | Overflow                |
-| 04/28 | Monday    | --     | Overflow                |
-| 04/30 | Wednesday | --     | Review                  |
-| 05/05 | Monday    | --     | Final                   |
-| 05/07 | Wednesday | --     | Final                   |
+| Lecture Topic           | Monday    | Wednesday    |
+|-------------------------|-----------|--------------|
+| Introduction            | [01/13 Introduction](https://github.com/ENGR599/lecture_slides/blob/main/00_Intro_HW_Security.pdf) | [01/15 Trust](https://github.com/ENGR599/lecture_slides/blob/main/01_Trust.pdf) |
+| Hardware Cryptography   | 01/20 No Class | [01/22 Crypto](https://github.com/ENGR599/lecture_slides/blob/main/03_Crypto_I.pdf) | 
+| Hardware Trojans        | 01/27 | 01/29 |
+| Circuit Basics          | 02/03 | 02/05 |
+| PUFs                    | 02/10 | 02/12 | 
+| TRNGs                   | 02/17 | 02/19 |
+| Hardware Metering       | 02/24 | 02/26 |
+| Watermarking            | 03/03 | 03/05 |
+| Physical Attacks        | 03/10 | 03/12 |
+| No Class                | 03/17 | 03/19 |
+| Fualt-Injection Attacks | 03/24 | 03/26 | 
+| Side-Channel Analysis   | 03/31 | 04/02 |
+| FPGA Security           | 04/07 | 04/09 |
+| FPGA Security           | 04/14 | 04/16 |
+| PCB Security            | 04/21 | 04/23 |
+| Overflow                | 04/28 | 04/30 |
+| Final Project           | 05/05 | 05/07 | 
