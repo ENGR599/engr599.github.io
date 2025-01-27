@@ -33,14 +33,14 @@ Office Hours:  Tuesday/Thursday 4:15p-5:00p (after class)
 
 gskipper@iu.edu
 
-Office Hours: TBD
+Office Hours: 4:30-5:30PM Monday & Wednesday Luddy Hall Room 3111 (or table past the room)
 
 ## TA
 **Christopher Sozio**
 
 cmsozio@iu.edu
 
-Office Hours: TBD
+Office Hours: 2:30-3:30PM Tuesday & Thursday Luddy Hall Room 3111 (or table past the room)
 
 <!--
 Barrett Tieman  
@@ -48,6 +48,9 @@ batieman@iu.edu
 
 Office Hours:  Monday/Wednesday 4:30p-6:30p Luddy Hall 3111
 -->
+
+## Vivado Tutorial
+[Tutorial](https://engr210.github.io/projects/vivado_tutorial)
 
 ## Schedule
 
