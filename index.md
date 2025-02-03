@@ -19,9 +19,8 @@ This course provides an introduction to hardware security. A more detailed descr
 
 ## Projects
 
+### [P1 - Hardware Trojan](https://github.com/ENGR599/P1_Hardware_Trojan)
 <!--
-### [P1 - Hardware Trojan](https://docs.google.com/document/d/1DIlBGESaB63MyGkzOPEOPWHJxd7XrSA-k8qcYPTFz2o)
-
 ### [P2 - Obfuscation](https://docs.google.com/document/d/1hOup4QjZGDl7oP83zsBqN0M4K65bsZ2q-xRPaSoOr5o)
 
 ### [P3 - PUF](https://docs.google.com/document/d/11Hz941qJU_cjf4HVN_omOeyHqKtSY2fgvVeBXWpYglk)
