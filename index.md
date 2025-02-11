@@ -19,6 +19,7 @@ This course provides an introduction to hardware security. A more detailed descr
 
 ## Projects
 
+<!-- -->
 ### [P1 - Hardware Trojan](https://github.com/ENGR599/P1_Hardware_Trojan)
 <!--
 ### [P2 - Obfuscation](https://docs.google.com/document/d/1hOup4QjZGDl7oP83zsBqN0M4K65bsZ2q-xRPaSoOr5o)
@@ -41,8 +42,8 @@ This is a very tentative schedule for this semester.
 | Introduction            | [01/13 Introduction](https://github.com/ENGR599/lecture_slides/blob/main/00_Intro_HW_Security.pdf) | [01/15 Trust](https://github.com/ENGR599/lecture_slides/blob/main/01_Trust.pdf) |
 | Hardware Cryptography   | 01/20 No Class | [01/22 Crypto I](https://github.com/ENGR599/lecture_slides/blob/main/02_Crypto_I.pdf) | 
 | Hardware Trojans        | [01/27 Crypto II](https://github.com/ENGR599/lecture_slides/blob/main/03_Crypto_II.pdf) | [01/29 Hardware Trojans I](https://github.com/ENGR599/lecture_slides/blob/main/04_Hardware_Trojans_I.pdf) |
-| Circuit Basics          | [02/03 Hardware Trojans II](https://github.com/ENGR599/lecture_slides/blob/main/05_Hardware_Trojans_II.pdf) | [02/05 VLSI](https://github.com/ENGR599/lecture_slides/blob/main/06_VLSI.pdf) |
-| PUFs                    | [02/10](https://github.com/ENGR599/lecture_slides/blob/main/07_VLSI_II.pdf) | 02/12 | 
+| Circuit Basics          | [02/03 Hardware Trojans II](https://github.com/ENGR599/lecture_slides/blob/main/05_Hardware_Trojans_II.pdf) | [02/05 VLSI I](https://github.com/ENGR599/lecture_slides/blob/main/06_VLSI.pdf) |
+| PUFs                    | [02/10 VLSI II](https://github.com/ENGR599/lecture_slides/blob/main/07_VLSI_II.pdf) | 02/12 | 
 | TRNGs                   | 02/17 | 02/19 |
 | Hardware Metering       | 02/24 | 02/26 |
 | Watermarking            | 03/03 | 03/05 |
