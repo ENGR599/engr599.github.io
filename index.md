@@ -43,8 +43,8 @@ This is a very tentative schedule for this semester.
 | Hardware Cryptography   | 01/20 No Class | [01/22 Crypto I](https://github.com/ENGR599/lecture_slides/blob/main/02_Crypto_I.pdf) | 
 | Hardware Trojans        | [01/27 Crypto II](https://github.com/ENGR599/lecture_slides/blob/main/03_Crypto_II.pdf) | [01/29 Hardware Trojans I](https://github.com/ENGR599/lecture_slides/blob/main/04_Hardware_Trojans_I.pdf) |
 | Circuit Basics          | [02/03 Hardware Trojans II](https://github.com/ENGR599/lecture_slides/blob/main/05_Hardware_Trojans_II.pdf) | [02/05 VLSI I](https://github.com/ENGR599/lecture_slides/blob/main/06_VLSI.pdf) |
-| PUFs                    | [02/10 VLSI II](https://github.com/ENGR599/lecture_slides/blob/main/07_VLSI_II.pdf) | 02/12 | 
-| TRNGs                   | 02/17 | 02/19 |
+| PUFs                    | [02/10 VLSI II](https://github.com/ENGR599/lecture_slides/blob/main/07_VLSI_II.pdf) | [02/12 PUFs I](https://github.com/ENGR599/lecture_slides/blob/main/08_PUFs_I.pdf) | 
+| TRNGs                   | [02/17 PUFs II](https://github.com/ENGR599/lecture_slides/blob/main/09_PUFs_II.pdf) | [02/19](https://github.com/ENGR599/lecture_slides/blob/main/10_TRNG.pdf) |
 | Hardware Metering       | 02/24 | 02/26 |
 | Watermarking            | 03/03 | 03/05 |
 | Physical Attacks        | 03/10 | 03/12 |
