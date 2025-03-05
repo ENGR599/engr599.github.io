@@ -59,3 +59,5 @@ This is a very tentative schedule for this semester.
 
 ### Extra Material
 [DES Explained Slides](https://github.com/ENGR599/lecture_slides/blob/main/DES_Explained.pdf)
+
+[Midterm Practice Exam 1](https://github.com/ENGR599/engr599.github.io/blob/main/midterm_practice_exam1.pdf)
