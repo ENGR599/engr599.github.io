@@ -20,10 +20,11 @@ This course provides an introduction to hardware security. A more detailed descr
 ## Projects
 
 <!-- -->
-### [P1 - Hardware Trojan](https://github.com/ENGR599/P1_Hardware_Trojan)
-<!--
-### [P2 - Obfuscation](https://docs.google.com/document/d/1hOup4QjZGDl7oP83zsBqN0M4K65bsZ2q-xRPaSoOr5o)
+### [P1 - Hardware Trojan](https://github.com/ENGR599/p1-hardware-trojan)
 
+### [P2 - Obfuscation](https://github.com/ENGR599/p2-obfuscation)
+
+<!--
 ### [P3 - PUF](https://docs.google.com/document/d/11Hz941qJU_cjf4HVN_omOeyHqKtSY2fgvVeBXWpYglk)
 
 ### [P4 - Side-Channel](https://docs.google.com/document/d/1NiHY2dEvv5ipX64C8NP11Wd0YK_7qrlr-meexUmGDtY)
@@ -45,9 +46,9 @@ This is a very tentative schedule for this semester.
 | Circuit Basics          | [02/03 Hardware Trojans II](https://github.com/ENGR599/lecture_slides/blob/main/05_Hardware_Trojans_II.pdf) | [02/05 VLSI I](https://github.com/ENGR599/lecture_slides/blob/main/06_VLSI.pdf) |
 | PUFs                    | [02/10 VLSI II](https://github.com/ENGR599/lecture_slides/blob/main/07_VLSI_II.pdf) | [02/12 PUFs I](https://github.com/ENGR599/lecture_slides/blob/main/08_PUFs_I.pdf) | 
 | TRNGs                   | [02/17 PUFs II](https://github.com/ENGR599/lecture_slides/blob/main/09_PUFs_II.pdf) | [02/19 TRNG](https://github.com/ENGR599/lecture_slides/blob/main/10_TRNG.pdf) |
-| Hardware Metering       | 02/24 | 02/26 |
-| Watermarking            | 03/03 | 03/05 |
-| Physical Attacks        | 03/10 | 03/12 |
+| Hardware Metering       | [02/24 HW Metering I](https://github.com/ENGR599/lecture_slides/blob/main/11_HW_Metering_I.pdf) | [02/26 HW Metering II](https://github.com/ENGR599/lecture_slides/blob/main/12_HW_Metering_II.pdf) |
+| Watermarking            | [03/03 Watermarking](https://github.com/ENGR599/lecture_slides/blob/main/13_Watermarking_of_HW_IPs.pdf) | [03/05 Review](https://github.com/ENGR599/lecture_slides/blob/main/14_Review.pdf) |
+| Physical Attacks        | 03/10 | 03/12 Exam |
 | No Class                | 03/17 | 03/19 |
 | Fault-Injection Attacks | 03/24 | 03/26 | 
 | Side-Channel Analysis   | 03/31 | 04/02 |
