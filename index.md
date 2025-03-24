@@ -50,7 +50,7 @@ This is a very tentative schedule for this semester.
 | Watermarking            | [03/03 Watermarking](https://github.com/ENGR599/lecture_slides/blob/main/13_Watermarking_of_HW_IPs.pdf) | [03/05 Review](https://github.com/ENGR599/lecture_slides/blob/main/14_Review.pdf) |
 | Physical Attacks        | 03/10 | 03/12 Exam |
 | No Class                | 03/17 | 03/19 |
-| Fault-Injection Attacks | 03/24 | 03/26 | 
+| Fault-Injection Attacks | [03/24](https://github.com/ENGR599/lecture_slides/blob/main/15_JTAG_Security_and_Trust.pdf) | 03/26 | 
 | Side-Channel Analysis   | 03/31 | 04/02 |
 | FPGA Security           | 04/07 | 04/09 |
 | FPGA Security           | 04/14 | 04/16 |
