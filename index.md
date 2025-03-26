@@ -48,15 +48,16 @@ This is a very tentative schedule for this semester.
 | TRNGs                   | [02/17 PUFs II](https://github.com/ENGR599/lecture_slides/blob/main/09_PUFs_II.pdf) | [02/19 TRNG](https://github.com/ENGR599/lecture_slides/blob/main/10_TRNG.pdf) |
 | Hardware Metering       | [02/24 HW Metering I](https://github.com/ENGR599/lecture_slides/blob/main/11_HW_Metering_I.pdf) | [02/26 HW Metering II](https://github.com/ENGR599/lecture_slides/blob/main/12_HW_Metering_II.pdf) |
 | Watermarking            | [03/03 Watermarking](https://github.com/ENGR599/lecture_slides/blob/main/13_Watermarking_of_HW_IPs.pdf) | [03/05 Review](https://github.com/ENGR599/lecture_slides/blob/main/14_Review.pdf) |
-| Physical Attacks        | 03/10 | 03/12 Exam |
+| Mid Term Week           | 03/10 Prep | 03/12 Exam |
 | No Class                | 03/17 | 03/19 |
-| Fault-Injection Attacks | [03/24](https://github.com/ENGR599/lecture_slides/blob/main/15_JTAG_Security_and_Trust.pdf) | 03/26 | 
-| Side-Channel Analysis   | 03/31 | 04/02 |
-| FPGA Security           | 04/07 | 04/09 |
+| Physical Attacks | [03/24 JTAG](https://github.com/ENGR599/lecture_slides/blob/main/15_JTAG_Security_and_Trust.pdf) | 03/26 | 
+| Phys Attacks & Side Channel   | 03/31 | 04/02 |
+| Side Channel Cont.           | 04/07 | 04/09 |
 | FPGA Security           | 04/14 | 04/16 |
-| PCB Security            | 04/21 | 04/23 |
-| Overflow                | 04/28 | 04/30 |
-| Final Project           | 05/05 | 05/07 | 
+| Final Project W1            | 04/21 | 04/23 |
+| Final Project W2  (Last Week of Classes)    | 04/28 | 04/30 |
+| Last Day of Classs           | 05/03 | - |
+| Final Exam Week | 5/05 | - | 
 
 ### Extra Material
 [DES Explained Slides](https://github.com/ENGR599/lecture_slides/blob/main/DES_Explained.pdf)
