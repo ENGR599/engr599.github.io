@@ -53,9 +53,9 @@ This is a very tentative schedule for this semester.
 | Physical Attacks | [03/24 JTAG](https://github.com/ENGR599/lecture_slides/blob/main/15_JTAG_Security_and_Trust.pdf) | 03/26 | 
 | Phys Attacks & Side Channel   | 03/31 | 04/02 |
 | Side Channel Cont.           | 04/07 | 04/09 |
-| FPGA Security           | 04/14 | 04/16 |
-| Final Project W1            | 04/21 | 04/23 |
-| Final Project W2  (Last Week of Classes)    | 04/28 | 04/30 |
+| FPGA Security or Other Topic | 04/14 | 04/16 |
+| Final Project W1            | 04/21 Prep & Assign | 04/23 Lab Day |
+| Final Project W2  (Last Week of Classes)    | 04/28 Present | 04/30 Present |
 | Last Day of Classs           | 05/03 | - |
 | Final Exam Week | 5/05 | - | 
 
