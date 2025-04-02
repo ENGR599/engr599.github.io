@@ -52,7 +52,7 @@ This is a very tentative schedule for this semester.
 | Mid Term Week           | 03/10 Prep | 03/12 Exam |
 | No Class                | 03/17 | 03/19 |
 | Physical Attacks | [03/24 JTAG](https://github.com/ENGR599/lecture_slides/blob/main/15_JTAG_Security_and_Trust.pdf) | [03/26 Physical Attacks](https://github.com/ENGR599/lecture_slides/blob/main/16_Physical_Attacks.pdf) | 
-| Phys Attacks & Side Channel   | [03/31](https://github.com/ENGR599/lecture_slides/blob/main/16_Physical_Attacks.pdf) | [04/02](https://github.com/ENGR599/lecture_slides/blob/main/17_SCA.pdf) |
+| Phys Attacks & Side Channel   | [03/31 Physical Attacks](https://github.com/ENGR599/lecture_slides/blob/main/16_Physical_Attacks.pdf) | [04/02 SCA](https://github.com/ENGR599/lecture_slides/blob/main/17_SCA.pdf) |
 | Side Channel Cont.           | 04/07 | 04/09 |
 | FPGA Security or Other Topic | 04/14 | 04/16 |
 | Final Project W1            | 04/21 Prep & Assign | 04/23 Lab Day |
