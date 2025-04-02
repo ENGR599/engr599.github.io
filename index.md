@@ -24,6 +24,7 @@ This course provides an introduction to hardware security. A more detailed descr
 
 ### [P2 - Obfuscation](https://github.com/ENGR599/p2-obfuscation)
 
+### [P3 - JTAG](https://github.com/ENGR599/JTAG_LAB)
 <!--
 ### [P3 - PUF](https://docs.google.com/document/d/11Hz941qJU_cjf4HVN_omOeyHqKtSY2fgvVeBXWpYglk)
 
