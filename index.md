@@ -55,7 +55,7 @@ This is a very tentative schedule for this semester.
 | Phys Attacks & Side Channel   | [03/31 Physical Attacks](https://github.com/ENGR599/lecture_slides/blob/main/16_Physical_Attacks.pdf) | [04/02 SCA](https://github.com/ENGR599/lecture_slides/blob/main/17_SCA.pdf) |
 | Side Channel Cont.           | 04/07 | 04/09 |
 | FPGA Security or Other Topic | 04/14 | 04/16 |
-| Final Project W1            | 04/21 Prep & Assign | 04/23 Lab Day |
+| Final Project W1            | [04/21 Prep & Assign](https://github.com/ENGR599/lecture_slides/blob/main/Intro_to_Papers.pdf) | 04/23 Lab Day |
 | Final Project W2  (Last Week of Classes)    | 04/28 Present | 04/30 Present |
 | Last Day of Classs           | 05/03 | - |
 | Final Exam Week | 5/05 | - | 
