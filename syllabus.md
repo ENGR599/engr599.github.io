@@ -32,15 +32,15 @@ Office Hours:  Tuesday/Thursday 4:15p-5:00p (after class)
 **Grant Skipper**
 
 gskipper@iu.edu
-
-Office Hours: 4:30-5:30PM Monday & Wednesday Luddy Hall Room 3111 (or table past the room)
+C: 703-300-2993
+Office Hours: 4:00-5:00PM Monday (Location TBD). Or by appointment.
 
 ## TA
 **Christopher Sozio**
 
 cmsozio@iu.edu
 
-Office Hours: 2:30-3:30PM Tuesday & Thursday Luddy Hall Room 3111 (or table past the room)
+Office Hours: TBD
 
 <!--
 Barrett Tieman  
