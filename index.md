@@ -44,7 +44,7 @@ This is a very tentative schedule for this semester.
 
 | Lecture Topic           | Monday    |
 |-------------------------|-----------|
-| Introduction            | 01/12 Introduction |
+| Introduction            | [01/12 Introduction](https://github.com/ENGR599/lecture_slides/blob/main/01_Intro_HW_Security.pdf) |
 | Hardware Cryptography   | 01/19 No Class (Holiday) |
 | Hardware Trojans        | 01/26 Crypto  |
 | Circuit Basics          | 02/02 Hardware Trojans |
