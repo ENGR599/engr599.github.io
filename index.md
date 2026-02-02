@@ -47,7 +47,7 @@ This is a very tentative schedule for this semester.
 | Introduction            | [01/12 Introduction](https://github.com/ENGR599/lecture_slides/blob/main/01_Intro_HW_Security.pdf) |
 | Hardware Cryptography   | 01/19 No Class (Holiday) |
 | Hardware Trojans        | [01/26 Crypto](https://github.com/ENGR599/lecture_slides/blob/main/03_Crypto_I.pdf)  |
-| Circuit Basics          | 02/02 Hardware Trojans |
+| Circuit Basics          | [02/02 Hardware Trojans](https://github.com/ENGR599/lecture_slides/blob/main/04_Hardware_Trojans.pdf) |
 | PUFs                    | 02/09 VLSI |
 | TRNGs                   | 02/16 PUFs |
 | Hardware Metering       | 02/23 HW Metering |
