@@ -49,7 +49,7 @@ This is a very tentative schedule for this semester.
 | Hardware Trojans        | [01/26 Crypto](https://github.com/ENGR599/lecture_slides/blob/main/03_Crypto_I.pdf)  |
 | Circuit Basics          | [02/02 Hardware Trojans](https://github.com/ENGR599/lecture_slides/blob/main/04_Hardware_Trojans.pdf) |
 | PUFs                    | [02/09 VLSI](https://github.com/ENGR599/lecture_slides/blob/main/05_VLSI.pdf) |
-| TRNGs                   | 02/16 PUFs |
+| TRNGs                   | [02/16 PUFs](https://github.com/ENGR599/lecture_slides/blob/main/05_PUFs.pdf) |
 | Hardware Metering       | 02/23 HW Metering |
 | Watermarking            | 03/02 Watermarking |
 | Mid Term Week           | 03/09 Prep/Exam |
@@ -58,7 +58,7 @@ This is a very tentative schedule for this semester.
 | Phys Attacks & Side Channel   | 03/30 Physical Attacks |
 | Side Channel Cont.           | 04/06 | 
 | FPGA Security or Other Topic | 04/13 |
-| TBD                          | [04/20 | 
+| TBD                          | 04/20 | 
 | Final Project Presenations  (Last Class)    | 04/27 |
 | Final Exam Week             | 05/04 | 
 
