@@ -54,7 +54,7 @@ This is a very tentative schedule for this semester.
 | Watermarking            | 03/02 HW Metering |
 | Mid Term Week           | 03/09 Prep/Exam |
 | Spring Break            | 03/16 |
-| Physical Attacks        | 03/23 HW Watermarking | 
+| Physical Attacks        | 03/23 Exam Review + HW Watermarking | 
 | Phys Attacks & Side Channel   | 03/30 JTAG + Physical Attacks |
 | Side Channel Cont.           | 04/06 Physical Attacks + Side Channel | 
 | FPGA Security or Other Topic | 04/13 Side Channel + FPGA Security |
