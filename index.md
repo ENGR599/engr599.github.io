@@ -50,17 +50,17 @@ This is a very tentative schedule for this semester.
 | Circuit Basics          | [02/02 Hardware Trojans](https://github.com/ENGR599/lecture_slides/blob/main/04_Hardware_Trojans.pdf) |
 | PUFs                    | [02/09 VLSI](https://github.com/ENGR599/lecture_slides/blob/main/05_VLSI.pdf) |
 | TRNGs                   | [02/16 PUFs](https://github.com/ENGR599/lecture_slides/blob/main/05_PUFs.pdf) |
-| Hardware Metering       | 02/23 HW Metering |
-| Watermarking            | 03/02 Watermarking |
+| Hardware Metering       | 02/23 PUFs |
+| Watermarking            | 03/02 HW Metering |
 | Mid Term Week           | 03/09 Prep/Exam |
-| TBD                     | 03/16 |
-| Physical Attacks        | 03/23 JTAG | 
-| Phys Attacks & Side Channel   | 03/30 Physical Attacks |
-| Side Channel Cont.           | 04/06 | 
-| FPGA Security or Other Topic | 04/13 |
-| TBD                          | 04/20 | 
-| Final Project Presenations  (Last Class)    | 04/27 |
-| Final Exam Week             | 05/04 | 
+| Spring Break            | 03/16 |
+| Physical Attacks        | 03/23 HW Watermarking | 
+| Phys Attacks & Side Channel   | 03/30 JTAG + Physical Attacks |
+| Side Channel Cont.           | 04/06 Physical Attacks + Side Channel | 
+| FPGA Security or Other Topic | 04/13 Side Channel + FPGA Security |
+| TBD                          | 04/20 Jeopardy | 
+| Final Project Presenations  (Last Class) | 04/27 Presentations |
+| Final Exam Week             | 05/04 No Final Exam, Enjoy Break/Graduation! | 
 
 ### Extra Material
 [DES Explained Slides](https://github.com/ENGR599/lecture_slides/blob/main/DES_Explained.pdf)
