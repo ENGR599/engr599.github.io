@@ -56,7 +56,7 @@ This is a very tentative schedule for this semester.
 | Spring Break            | 03/16 |
 | Physical Attacks        | 03/23 Exam Review + HW Watermarking | 
 | Phys Attacks & Side Channel   | 03/30 JTAG + Physical Attacks |
-| Side Channel Cont.           | 04/06 Physical Attacks + Side Channel | 
+| Side Channel Cont.           | 04/06 [Physical Attacks](https://github.com/ENGR599/lecture_slides/blob/main/09_Physical_Attacks.pptx.pdf) + Side Channel | 
 | FPGA Security or Other Topic | 04/13 Side Channel + FPGA Security |
 | TBD                          | 04/20 Jeopardy | 
 | Final Project Presenations  (Last Class) | 04/27 Presentations |
