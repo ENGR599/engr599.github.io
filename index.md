@@ -83,10 +83,11 @@ Below are some pre-selected papers for the final project.
 10.[On the Usability of Authenticity Checks for Hardware Security Tokens (2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/pfeffer)
 11. [A2: Analog Malicious Hardware (2016)](https://web.eecs.umich.edu/~taustin/papers/OAKLAND16-a2attack.pdf)
 12. [Spectre Attacks: Exploiting Speculative Execution](https://ieeexplore.ieee.org/document/8835233)
-13. [Cryo-Mechanical RAM Content Extraction Against Modern Embedded Systems (2023) ReCon: From the Bitstream to Piracy Detection](https://ieeexplore.ieee.org/abstract/document/9337563)
-14. [FANCI: identification of stealthy malicious logic using boolean functional analysis](https://dl.acm.org/doi/abs/10.1145/2508859.2516654)
-15. [Library-Attack: Reverse Engineering Approach for Evaluating Hardware IP Protection](https://arxiv.org/abs/2501.12292)
-16. [Reflections on Trusting TrustHUB](https://ieeexplore.ieee.org/abstract/document/10323782)
-17. [The CHERI capability model: Revisiting RISC in an age of risk (2014)](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201406-isca2014-cheri.pdf)**
+13. [Cryo-Mechanical RAM Content Extraction Against Modern Embedded Systems (2023)](https://wootconference.org/papers/woot23-paper3.pdf) 
+14. [ReCon: From the Bitstream to Piracy Detection](https://ieeexplore.ieee.org/abstract/document/9337563)
+15. [FANCI: identification of stealthy malicious logic using boolean functional analysis](https://dl.acm.org/doi/abs/10.1145/2508859.2516654)
+16. [Library-Attack: Reverse Engineering Approach for Evaluating Hardware IP Protection](https://arxiv.org/abs/2501.12292)
+17. [Reflections on Trusting TrustHUB](https://ieeexplore.ieee.org/abstract/document/10323782)
+18. [The CHERI capability model: Revisiting RISC in an age of risk (2014)](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201406-isca2014-cheri.pdf)**
 
 [Xbox Paper](https://github.com/ENGR599/engr599.github.io/blob/main/xbox_paper.pdf)
